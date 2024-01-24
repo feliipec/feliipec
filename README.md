@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @feliipec
+- 👀 I’m interested in learning more about the world of programming.
+- 🌱 I’m currently learning C# language.
+- 📫 How to reach me: instagram @feliipec or email feliipecorreiia@gmail.com
+- ⚡ Fun fact: taste of pepper and olive xD
